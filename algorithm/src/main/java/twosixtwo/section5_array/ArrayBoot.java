@@ -25,7 +25,6 @@ public class ArrayBoot {
         }
 
         System.out.println("=======================");
-
         //Arrays.asList() : 값을 넣으면 List로 변경해준다.
         List<Integer> integers = Arrays.asList(1, 2, 3, 3, 5);
         System.out.println("integers = " + integers);
